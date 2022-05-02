@@ -24,3 +24,5 @@ __pycache__/
 *.snm
 
 .vscode/
+
+exercises/mnist_data.npz
